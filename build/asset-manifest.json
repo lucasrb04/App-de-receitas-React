@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/App-de-receitas-React/static/css/main.2faad354.chunk.css",
+    "main.js": "/App-de-receitas-React/static/js/main.2b262ba1.chunk.js",
+    "main.js.map": "/App-de-receitas-React/static/js/main.2b262ba1.chunk.js.map",
+    "runtime-main.js": "/App-de-receitas-React/static/js/runtime-main.9682bc6c.js",
+    "runtime-main.js.map": "/App-de-receitas-React/static/js/runtime-main.9682bc6c.js.map",
+    "static/css/2.95258f03.chunk.css": "/App-de-receitas-React/static/css/2.95258f03.chunk.css",
+    "static/js/2.e114af3b.chunk.js": "/App-de-receitas-React/static/js/2.e114af3b.chunk.js",
+    "static/js/2.e114af3b.chunk.js.map": "/App-de-receitas-React/static/js/2.e114af3b.chunk.js.map",
+    "index.html": "/App-de-receitas-React/index.html",
+    "precache-manifest.95fb69bc09cbe5fc362abc4949ab8b2b.js": "/App-de-receitas-React/precache-manifest.95fb69bc09cbe5fc362abc4949ab8b2b.js",
+    "service-worker.js": "/App-de-receitas-React/service-worker.js",
+    "static/css/2.95258f03.chunk.css.map": "/App-de-receitas-React/static/css/2.95258f03.chunk.css.map",
+    "static/css/main.2faad354.chunk.css.map": "/App-de-receitas-React/static/css/main.2faad354.chunk.css.map",
+    "static/js/2.e114af3b.chunk.js.LICENSE.txt": "/App-de-receitas-React/static/js/2.e114af3b.chunk.js.LICENSE.txt",
+    "static/media/blackHeartIcon.svg": "/App-de-receitas-React/static/media/blackHeartIcon.b8913346.svg",
+    "static/media/drinkIcon.svg": "/App-de-receitas-React/static/media/drinkIcon.f87c47c3.svg",
+    "static/media/explore.png": "/App-de-receitas-React/static/media/explore.194f75f8.png",
+    "static/media/exploreIcon.svg": "/App-de-receitas-React/static/media/exploreIcon.157945ff.svg",
+    "static/media/logo.png": "/App-de-receitas-React/static/media/logo.0b4d4c30.png",
+    "static/media/mealIcon.svg": "/App-de-receitas-React/static/media/mealIcon.b27ba19e.svg",
+    "static/media/profileIcon.svg": "/App-de-receitas-React/static/media/profileIcon.74e487e5.svg",
+    "static/media/searchIcon.svg": "/App-de-receitas-React/static/media/searchIcon.db812135.svg",
+    "static/media/shareIcon.svg": "/App-de-receitas-React/static/media/shareIcon.06215ed4.svg",
+    "static/media/whiteHeartIcon.svg": "/App-de-receitas-React/static/media/whiteHeartIcon.ea3b6ba8.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9682bc6c.js",
+    "static/css/2.95258f03.chunk.css",
+    "static/js/2.e114af3b.chunk.js",
+    "static/css/main.2faad354.chunk.css",
+    "static/js/main.2b262ba1.chunk.js"
+  ]
+}
