@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/App-de-receitas-React/static/css/main.2faad354.chunk.css",
-    "main.js": "/App-de-receitas-React/static/js/main.2b262ba1.chunk.js",
-    "main.js.map": "/App-de-receitas-React/static/js/main.2b262ba1.chunk.js.map",
+    "main.js": "/App-de-receitas-React/static/js/main.d97cc369.chunk.js",
+    "main.js.map": "/App-de-receitas-React/static/js/main.d97cc369.chunk.js.map",
     "runtime-main.js": "/App-de-receitas-React/static/js/runtime-main.9682bc6c.js",
     "runtime-main.js.map": "/App-de-receitas-React/static/js/runtime-main.9682bc6c.js.map",
     "static/css/2.95258f03.chunk.css": "/App-de-receitas-React/static/css/2.95258f03.chunk.css",
-    "static/js/2.e114af3b.chunk.js": "/App-de-receitas-React/static/js/2.e114af3b.chunk.js",
-    "static/js/2.e114af3b.chunk.js.map": "/App-de-receitas-React/static/js/2.e114af3b.chunk.js.map",
+    "static/js/2.b3f8b66f.chunk.js": "/App-de-receitas-React/static/js/2.b3f8b66f.chunk.js",
+    "static/js/2.b3f8b66f.chunk.js.map": "/App-de-receitas-React/static/js/2.b3f8b66f.chunk.js.map",
     "index.html": "/App-de-receitas-React/index.html",
-    "precache-manifest.95fb69bc09cbe5fc362abc4949ab8b2b.js": "/App-de-receitas-React/precache-manifest.95fb69bc09cbe5fc362abc4949ab8b2b.js",
+    "precache-manifest.c923887052d3a1f3173f8ca7aa2d9d9f.js": "/App-de-receitas-React/precache-manifest.c923887052d3a1f3173f8ca7aa2d9d9f.js",
     "service-worker.js": "/App-de-receitas-React/service-worker.js",
     "static/css/2.95258f03.chunk.css.map": "/App-de-receitas-React/static/css/2.95258f03.chunk.css.map",
     "static/css/main.2faad354.chunk.css.map": "/App-de-receitas-React/static/css/main.2faad354.chunk.css.map",
-    "static/js/2.e114af3b.chunk.js.LICENSE.txt": "/App-de-receitas-React/static/js/2.e114af3b.chunk.js.LICENSE.txt",
+    "static/js/2.b3f8b66f.chunk.js.LICENSE.txt": "/App-de-receitas-React/static/js/2.b3f8b66f.chunk.js.LICENSE.txt",
     "static/media/blackHeartIcon.svg": "/App-de-receitas-React/static/media/blackHeartIcon.b8913346.svg",
     "static/media/drinkIcon.svg": "/App-de-receitas-React/static/media/drinkIcon.f87c47c3.svg",
     "static/media/explore.png": "/App-de-receitas-React/static/media/explore.194f75f8.png",
@@ -28,8 +28,8 @@
   "entrypoints": [
     "static/js/runtime-main.9682bc6c.js",
     "static/css/2.95258f03.chunk.css",
-    "static/js/2.e114af3b.chunk.js",
+    "static/js/2.b3f8b66f.chunk.js",
     "static/css/main.2faad354.chunk.css",
-    "static/js/main.2b262ba1.chunk.js"
+    "static/js/main.d97cc369.chunk.js"
   ]
 }
